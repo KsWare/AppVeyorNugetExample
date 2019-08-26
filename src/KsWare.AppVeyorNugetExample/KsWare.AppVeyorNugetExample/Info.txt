@@ -21,6 +21,3 @@ build:
   include_nuget_references: true
   verbosity: minimal
 #####################################################
-
-TODO WARNING: NU5125: The 'licenseUrl' element will be deprecated. Consider using the 'license' element instead.
-Attempting to build symbols package for 'KsWare.AppVeyorNugetExample.csproj'.
